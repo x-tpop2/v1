@@ -1,0 +1,16 @@
+{
+  "name": "SIGAP BRANTAS — Laporan Lapangan BBWS Brantas",
+  "short_name": "SIGAP",
+  "description": "Laporan petugas OP anti-manipulasi: kamera TimeMark, offline-first, Drive + Sheet + Supabase.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#061F3A",
+  "theme_color": "#0A4C8B",
+  "lang": "id",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
